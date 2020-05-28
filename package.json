@@ -12,7 +12,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@k-foss/ts-esnode": "1.4.1",
+    "@k-foss/ts-esnode": "1.6.0",
     "@types/chrome": "0.0.112",
     "@types/node": "14.0.1",
     "@typescript-eslint/eslint-plugin": "2.33.0",
